@@ -7,7 +7,7 @@ Directory
 ----------
 - Utilities: This directory has all the utility functions for this project
 - binary_map: This directory has all the functions needed for binary map and the room
-- Videos: This directory has all the simulation videos 
+- videos: This directory has all the simulation videos 
 
 Functions
 ----------
