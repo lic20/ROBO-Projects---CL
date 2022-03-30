@@ -1,7 +1,6 @@
 Mini-Project 3
 ================
-Student: Cynthia Li
-This is the repository for Robotics 2 Mini-Project-3.
+Student: Cynthia Li (lic20)
 
 
 Directory
